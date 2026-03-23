@@ -120,7 +120,7 @@ h1 {
 }
 
 .required-note {
-  color: var(--color-accent);
+  color: var(--color-text);
   margin-top: 0;
   margin-bottom: 24px;
   font-size: 0.95rem;
